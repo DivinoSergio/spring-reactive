@@ -13,3 +13,10 @@ No final, é feito um pequeno benchmark para avaliar a performance de ambas.
 	<img loading="lazy" src="https://img.shields.io/badge/Maven-3.9.3-blue?logo=apachemaven"/>
 	<img loading="lazy" src="https://img.shields.io/badge/MySQL-9.3-blue?logo=mysql"/>
 </p>
+
+#Benchmark 
+
+<p align="center">
+	<img loading="lazy" src="https://github.com/DivinoSergio/spring-reactive/images/servlet-api.png"/>
+	<img loading="lazy" src="https://github.com/DivinoSergio/spring-reactive/images/reactive-api.png"/>
+</p>
