@@ -14,7 +14,7 @@ No final, é feito um pequeno benchmark para avaliar a performance de ambas.
 	<img loading="lazy" src="https://img.shields.io/badge/MySQL-9.3-blue?logo=mysql"/>
 </p>
 
-#Benchmark 
+## Benchmark 
 
 Servlet Api
 
