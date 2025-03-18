@@ -17,6 +17,9 @@ No final, é feito um pequeno benchmark para avaliar a performance de ambas.
 #Benchmark 
 
 <p align="center">
-	<img loading="lazy" src="https://github.com/DivinoSergio/spring-reactive/images/servlet-api.png"/>
-	<img loading="lazy" src="https://github.com/DivinoSergio/spring-reactive/images/reactive-api.png"/>
+	<img loading="lazy" src="images/servlet-api.png"/>
+	<img loading="lazy" src="images/reactive-api.png"/>
 </p>
+
+![Servlet Api](images/servlet-api.png)
+![Reactive Api](images/reactive-api.png)
