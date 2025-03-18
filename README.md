@@ -22,7 +22,9 @@ No final, é feito um pequeno benchmark para avaliar a performance de ambas.
 </p>
 
 Servlet Api
+
 ![Servlet Api](images/servlet-api.png)
 
 Reactive Api
+
 ![Reactive Api](images/reactive-api.png)
